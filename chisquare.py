@@ -46,4 +46,4 @@ print "Probability null hypothesis is true: %f%%" %(float(result[1])*100)
 if  (float(result[1])*100) > 5:
     print "You should accept the null hypthothesis!"
 else:
-    print "You should reject the null hypthothesis!" 
+    print "You should reject the null hypthothesis!" 
